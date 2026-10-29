@@ -178,3 +178,8 @@ figcaption{display:flex;align-items:center;gap:10px;padding:14px 6px 4px;font-si
 .promo strong{color:var(--gold2);letter-spacing:.02em}
 .promo a{color:var(--gold2);font-weight:600;text-underline-offset:3px}
 .promo a:hover{color:#fff}
+
+/* Newsletter */
+.news-card{margin-top:1.25rem}
+.news-embed{margin-top:1rem;display:flex;justify-content:center}
+.news-embed:empty{display:none}
